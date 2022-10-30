@@ -1,0 +1,15 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.header
+{
+	font-style: italic;
+	background-color: blue;
+	font-size: 20px;
+}
+.navbar
+{
+	background-color: red;
+}
